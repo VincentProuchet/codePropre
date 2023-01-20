@@ -1,11 +1,16 @@
 package monotache.noncorrige;
 
-import java.time.LocalDate;
 import java.util.Date;
 
+/**
+ * @author Vincent
+ *
+ */
 public class Facture {
 
+	/** dateFacture */
 	private Date dateFacture;
+	/** montant */
 	private double montant;
 	/** Getter for dateFacture
 	 * @return the dateFacture

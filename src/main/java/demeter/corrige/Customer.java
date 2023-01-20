@@ -32,8 +32,7 @@ public class Customer {
 	/**
 	 * Setter
 	 * 
-	 * @param wallet
-	 *            the wallet to set
+	 * @param wallet the wallet to set
 	 */
 	protected void setWallet(Wallet wallet) {
 		this.wallet = wallet;

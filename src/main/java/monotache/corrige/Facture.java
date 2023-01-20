@@ -1,6 +1,5 @@
 package monotache.corrige;
 
-import java.time.LocalDate;
 import java.util.Date;
 
 public class Facture {
